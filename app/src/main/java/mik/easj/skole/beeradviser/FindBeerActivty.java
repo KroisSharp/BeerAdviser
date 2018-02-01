@@ -16,7 +16,7 @@ public class FindBeerActivty extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_find_beer_activty);
-        
+
     }
 
     public void OnClickFindBeerBtn(View view){
