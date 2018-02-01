@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Beer Adviser</string>
+    <string name="FindBeer">Find beer</string>
+    <string name="brands"></string>
+    <string-array name="MineØl">
+        <item>Light</item>
+        <item>Amber</item>
+        <item>Brown</item>
+        <item>Dark</item>
+    </string-array>
+</resources>
